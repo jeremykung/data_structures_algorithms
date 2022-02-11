@@ -24,6 +24,11 @@ console.log(`Time Elapsed: ${ (t2 - t1) / 1000 }`)
 
 /*
 Problem with Time
-- machines perform at different speeds
-- for fast algorithms, speed might not be precise enough (they are all too fast)
+    - machines perform at different speeds
+    - for fast algorithms, speed might not be precise enough (they are all too fast)
+
+Counting is an alternative
+    - We would count how many operations there are
+    - Do the operations grow linearly or exponentially with n? What is their proportion?
+    - Less operations is better for an algorithm
 */
